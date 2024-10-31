@@ -95,7 +95,7 @@ header {
     gap: 50px;          
     text-decoration: none;           /* ระยะห่างระหว่างปุ่ม */
     display: grid;
-    grid-template-columns: repeat(5, 1fr); /* กำหนดให้มี 5 คอลัมน์ */
+    grid-template-columns: repeat(4, 1fr); /* กำหนดให้มี 5 คอลัมน์ */
     justify-items: center;
    
 
@@ -262,3 +262,7 @@ a {
         grid-template-columns: 1fr;           /* 1 ปุ่มต่อแถว */
     }
 }
+
+
+
+
