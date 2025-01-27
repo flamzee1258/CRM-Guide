@@ -36,7 +36,6 @@ body {
     margin: 0 auto; /* จัดกึ่งกลางโดยใช้ margin */
     padding: 50px 50px;
 }
-
 header {
     display: flex;
     justify-content: center; /* จัดรูปภาพตรงกลางในแนวนอน */
@@ -57,7 +56,7 @@ header {
     padding-left: 120px;
 
 }
-้header img{
+header img{
     max-width: 100%;         /* ทำให้รูปภาพไม่เกินขนาดของหน้าจอ */
     height: auto; 
     margin-top: 100px;
